@@ -11,10 +11,10 @@
 </p>
     
 # Tiana Bot
-#### Tiana is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
+#### Cherry is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 <p align="center"><img src="https://telegra.ph/file/fae3dd2a2c6e491e4893e.jpg"></p>
 
-#### Tiana's features over other bots:
+#### Cherry features over other bots:
 - Modern
 - Fast
 - Fully open-source
@@ -56,42 +56,9 @@ Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed D
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Tiana Group Managment Bot on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/Prince-Botz/TianaBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Payal8800/CherryManage"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 <h4>Click the button below to deploy Tiana Music Bot on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/Prince301102/Tiana-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
+<p><a href="https://heroku.com/deploy?template=https://github.com/Payal8800/CherryMusix"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
 </details>
 
-<details>
-<summary><b>🔗 Deploy to VPS</b></summary>
-<br>
-
-
-```console
-$ git clone https://github.com/Prince-Botz/TianaBot
-$ cd TianaBot
-$ pip3 install -U -r requirements.txt
-$ cp sample.env .env
-```
-> Edit .env with your values and then start bot with
-```console
-$ bash start
-```
-
-</details>
-
-## Contact & Support
-
-- [Telegram Channel](https://t.me/TianaxUpdates)
-- [Telegram Support Group](https://t.me/TianaxSupport)
-- [Contact Owner](https://t.me/PrincexAssistantBot)
-
-## License
-
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/Prince-Botz/TianaBot/blob/main/LICENSE) See `LICENSE.md` for more information.
-
-## Acknowledgements
-
-Special thanks to these amazing projects/people which/who help power Tiana Bot:
-
-- [Prince](https://t.me/NoobxCoder)
